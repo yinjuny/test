@@ -1,0 +1,7 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 Scene
+	01 Scene
+	02 CopyStencilToLightingChannels
+	03 PostProcessing
+	04 TemporalSuperResolution(sg.AntiAliasingQuality=3) 1280x720 -> 1280x720
